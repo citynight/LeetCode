@@ -1,7 +1,7 @@
 package 链表;
 
 public class _141_环形链表 {
-    public boolean hasCycle(ListNode head) {
+    public static boolean hasCycle(ListNode head) {
         ListNode slow = head;
 
         // 判断参数为null的情况
@@ -22,6 +22,8 @@ public class _141_环形链表 {
 
 
     public static void main(String[] args) {
-        System.out.println(this.hasCycle(null));
+        System.out.println(
+                hasCycle(null)
+        );
     }
 }
