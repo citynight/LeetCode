@@ -5,17 +5,26 @@ public class _203_移除链表元素 {
     public static ListNode removeElements(ListNode head, int val) {
 
         ListNode node = head;
+        ListNode preNode = null;
         while (node!=null) {
             if (node.val == val){
-                node.val = node.next.val;
-                node.next = node.next.next;
-                continue;
+                if (node.next == null){
+                    if (preNode == null){
+                        return null;
+                    }
+                    preNode.next = null;
+                    break;
+                }else {
+                    node.val = node.next.val;
+                    node.next = node.next.next;
+                    continue;
+                }
             }
+            preNode = node;
             node = node.next;
         }
         return head;
     }
-
 
     public ListNode removeElements1(ListNode head, int val) {
         ListNode header = new ListNode(-1);
