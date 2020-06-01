@@ -9,12 +9,12 @@
 import Foundation
 
 
-//print(lengthOfLongestSubstring("abcabcbb"))
-//
-//print(lengthOfLongestSubstring("bbbbb"))
-//
-//print(lengthOfLongestSubstring("pwwkew"))
-//
-//print(lengthOfLongestSubstring("aab"))
+print(lengthOfLongestSubstring("abcabcbb"))
+
+print(lengthOfLongestSubstring("bbbbb"))
+
+print(lengthOfLongestSubstring("pwwkew"))
+
+print(lengthOfLongestSubstring("aab"))
 
 print(lengthOfLongestSubstring("cdabbacdea"))
