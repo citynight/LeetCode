@@ -14,8 +14,8 @@
             filePath = "Leetcode/_3_&#x65e0;&#x91cd;&#x590d;&#x5b57;&#x7b26;&#x7684;&#x6700;&#x957f;&#x5b50;&#x4e32;.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
             landmarkName = "lengthOfLongestSubstring(_:)"
             landmarkType = "9">
          </BreakpointContent>
