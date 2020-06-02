@@ -9,12 +9,9 @@
 import Foundation
 
 
-print(lengthOfLongestSubstring("abcabcbb"))
+print(findMedianSortedArrays([1, 3], [2]))
 
-print(lengthOfLongestSubstring("bbbbb"))
+print(findMedianSortedArrays([1, 2], [3, 4]))
 
-print(lengthOfLongestSubstring("pwwkew"))
 
-print(lengthOfLongestSubstring("aab"))
-
-print(lengthOfLongestSubstring("cdabbacdea"))
+print(findMedianSortedArrays([1, 3], []))

@@ -40,3 +40,13 @@ func lengthOfLongestSubstring(_ s: String) -> Int {
     }
     return max
 }
+//
+//print(lengthOfLongestSubstring("abcabcbb"))
+//
+//print(lengthOfLongestSubstring("bbbbb"))
+//
+//print(lengthOfLongestSubstring("pwwkew"))
+//
+//print(lengthOfLongestSubstring("aab"))
+//
+//print(lengthOfLongestSubstring("cdabbacdea"))

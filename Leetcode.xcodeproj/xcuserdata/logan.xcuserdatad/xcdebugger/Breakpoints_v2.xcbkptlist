@@ -3,22 +3,4 @@
    uuid = "6B0C34C7-D562-460E-80D8-10FD352A94A0"
    type = "1"
    version = "2.0">
-   <Breakpoints>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "BE0BDE6E-094A-4678-98E4-8E5D201FE5C1"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Leetcode/_3_&#x65e0;&#x91cd;&#x590d;&#x5b57;&#x7b26;&#x7684;&#x6700;&#x957f;&#x5b50;&#x4e32;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "lengthOfLongestSubstring(_:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-   </Breakpoints>
 </Bucket>

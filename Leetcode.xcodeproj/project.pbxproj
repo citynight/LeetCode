@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */; };
 		025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */; };
 		025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */; };
 		025DC0B02484CA020094AE2E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AF2484CA020094AE2E /* main.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
 		025DC0A32484C13C0094AE2E /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_20_有效的括号.swift"; sourceTree = "<group>"; };
 		025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_3_无重复字符的最长子串.swift"; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */,
 				025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */,
+				02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 			);
 			path = Leetcode;
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */,
+				02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */,
 				025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */,
 				025DC0B02484CA020094AE2E /* main.swift in Sources */,
 			);
