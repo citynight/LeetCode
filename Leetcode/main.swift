@@ -8,10 +8,11 @@
 
 import Foundation
 
-
-print(findMedianSortedArrays([1, 3], [2]))
-
-print(findMedianSortedArrays([1, 2], [3, 4]))
-
-
-print(findMedianSortedArrays([1, 3], []))
+//
+//print(findMedianSortedArrays([1, 3], [2]))
+//
+//print(findMedianSortedArrays([1, 2], [3, 4]))
+//
+//
+//print(findMedianSortedArrays([1, 3], []))
+longestPalindrome("abba")
