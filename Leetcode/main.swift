@@ -15,4 +15,7 @@ import Foundation
 //
 //
 //print(findMedianSortedArrays([1, 3], []))
-longestPalindrome("abba")
+//longestPalindrome("abba")
+
+
+print(reverse(1534236469))
