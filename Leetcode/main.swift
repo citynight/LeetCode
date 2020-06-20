@@ -18,4 +18,11 @@ import Foundation
 //longestPalindrome("abba")
 
 
-print(reverse(1534236469))
+////print(reverse(1534236469))
+//print(myAtoi("9223372036854775808"))
+//print(myAtoi("words and 987"))
+//print(myAtoi("-   234"))
+print(myAtoi("-9223372036854775809"))
+//print(myAtoi("18446744073709551617"))
+
+

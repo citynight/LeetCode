@@ -11,8 +11,7 @@ import Cocoa
 class _7_____: NSObject {
     
 }
-let INT_MAX:Int = Int(pow(2.0, 31.0) - 1)
-let INT_MIN:Int = Int(-pow(2.0, 31.0))
+
 func reverse(_ x: Int) -> Int {
     if ( x <= INT_MIN ){ return 0}
     var X = x
