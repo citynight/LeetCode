@@ -22,7 +22,11 @@ import Foundation
 //print(myAtoi("9223372036854775808"))
 //print(myAtoi("words and 987"))
 //print(myAtoi("-   234"))
-print(myAtoi("-9223372036854775809"))
+//print(myAtoi("-9223372036854775809"))
 //print(myAtoi("18446744073709551617"))
+
+print(isPalindrome(121))
+print(isPalindrome(-121))
+print(isPalindrome(10))
 
 
