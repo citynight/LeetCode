@@ -25,8 +25,12 @@ import Foundation
 //print(myAtoi("-9223372036854775809"))
 //print(myAtoi("18446744073709551617"))
 
-print(isPalindrome(121))
-print(isPalindrome(-121))
-print(isPalindrome(10))
+//print(isPalindrome(121))
+//print(isPalindrome(-121))
+//print(isPalindrome(10))
+
+//print(findLength([1,2,3,2,1], [3,2,1,4,7]))
+print(findLength([0,0,0,0,1],
+[1,0,0,0,0]))
 
 

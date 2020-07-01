@@ -13,6 +13,7 @@
 		025DC0B02484CA020094AE2E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AF2484CA020094AE2E /* main.swift */; };
 		028EE6F4249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift in Sources */ = {isa = PBXBuildFile; fileRef = 028EE6F3249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift */; };
 		028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028EE6F5249E3DE200EBF479 /* _9_回文数.swift */; };
+		0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0297C55B24AC317400DAB478 /* _718_最长重复子数组.swift */; };
 		029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029B329D248B2D15008D33E7 /* _5_最长回文子串.swift */; };
 		02B454CB24927A0D0054002C /* _7_整数反转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B454CA24927A0D0054002C /* _7_整数反转.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		025DC0AF2484CA020094AE2E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		028EE6F3249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_8_字符串转换整数(atoi).swift"; sourceTree = "<group>"; };
 		028EE6F5249E3DE200EBF479 /* _9_回文数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_9_回文数.swift"; sourceTree = "<group>"; };
+		0297C55B24AC317400DAB478 /* _718_最长重复子数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_718_最长重复子数组.swift"; sourceTree = "<group>"; };
 		029B329D248B2D15008D33E7 /* _5_最长回文子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_5_最长回文子串.swift"; sourceTree = "<group>"; };
 		02B454CA24927A0D0054002C /* _7_整数反转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_7_整数反转.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,6 +80,7 @@
 				02B454CA24927A0D0054002C /* _7_整数反转.swift */,
 				028EE6F3249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift */,
 				028EE6F5249E3DE200EBF479 /* _9_回文数.swift */,
+				0297C55B24AC317400DAB478 /* _718_最长重复子数组.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 			);
 			path = Leetcode;
@@ -148,6 +151,7 @@
 				02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */,
 				029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */,
 				025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */,
+				0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */,
 				025DC0B02484CA020094AE2E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
