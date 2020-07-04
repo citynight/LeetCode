@@ -30,7 +30,18 @@ import Foundation
 //print(isPalindrome(10))
 
 //print(findLength([1,2,3,2,1], [3,2,1,4,7]))
-print(findLength([0,0,0,0,1],
-[1,0,0,0,0]))
+//print(findLength([0,0,0,0,1],
+//[1,0,0,0,0]))
 
+//print(kthSmallest([
+//   [ 1,  5,  9],
+//   [10, 11, 13],
+//   [12, 13, 15]
+//], 8))
+
+//let node = sortedArrayToBST([-10,-3,0,5,9])
+//print(node)
+
+//print(longestValidParentheses("(()"))
+print(longestValidParentheses("()(())"))
 
