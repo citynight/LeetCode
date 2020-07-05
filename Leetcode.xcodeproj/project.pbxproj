@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749B24B017D6003A5526 /* _32_最长有效括号.swift */; };
+		021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749D24B161E3003A5526 /* _44_通配符匹配.swift */; };
 		02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */; };
 		024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */; };
 		025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		021A749B24B017D6003A5526 /* _32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_32_最长有效括号.swift"; sourceTree = "<group>"; };
+		021A749D24B161E3003A5526 /* _44_通配符匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_44_通配符匹配.swift"; sourceTree = "<group>"; };
 		02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
 		024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_108_将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
 		025DC0A32484C13C0094AE2E /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,7 @@
 				02DDD43424AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift */,
 				024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */,
 				021A749B24B017D6003A5526 /* _32_最长有效括号.swift */,
+				021A749D24B161E3003A5526 /* _44_通配符匹配.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 			);
 			path = Leetcode;
@@ -164,6 +167,7 @@
 				025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */,
 				0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */,
 				024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */,
+				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
 				025DC0B02484CA020094AE2E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

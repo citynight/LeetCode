@@ -43,5 +43,10 @@ import Foundation
 //print(node)
 
 //print(longestValidParentheses("(()"))
-print(longestValidParentheses("()(())"))
+//print(longestValidParentheses("()(())"))
 
+//print(isMatch("aa", "a"))
+//print(isMatch("aa", "*"))
+//print(isMatch("cb", "?a"))
+//print(isMatch("adceb", "*a*b"))
+print(isMatch("acdcb", "a*c?b"))
