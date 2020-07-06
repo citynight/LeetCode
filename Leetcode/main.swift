@@ -49,4 +49,10 @@ import Foundation
 //print(isMatch("aa", "*"))
 //print(isMatch("cb", "?a"))
 //print(isMatch("adceb", "*a*b"))
-print(isMatch("acdcb", "a*c?b"))
+//print(isMatch("acdcb", "a*c?b"))
+
+print(uniquePathsWithObstacles([
+  [0,0,0],
+  [0,1,0],
+  [0,0,0]
+]))
