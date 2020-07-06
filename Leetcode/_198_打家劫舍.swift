@@ -11,7 +11,7 @@ import Cocoa
 class _198_____: NSObject {
 
 }
-func rob(_ nums: [Int]) -> Int {
+func rob1(_ nums: [Int]) -> Int {
     if nums.isEmpty {
         return 0
     }
