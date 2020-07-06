@@ -58,4 +58,6 @@ import Foundation
 //]))
 
 
-print(climbStairs(3))
+//print(climbStairs(3))
+//print(rob([2,1,1,2]))
+print(rob([1,2,3,1]))
