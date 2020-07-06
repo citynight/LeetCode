@@ -14,6 +14,7 @@ class _63_____II: NSObject {
 
 func uniquePathsWithObstacles(_ obstacleGrid: [[Int]]) -> Int {
     let m = obstacleGrid.count
+    if m == 0 { return 0 }
     let n = obstacleGrid[0].count
     
     var dp:[[Int]] = obstacleGrid
