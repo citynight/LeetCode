@@ -51,8 +51,11 @@ import Foundation
 //print(isMatch("adceb", "*a*b"))
 //print(isMatch("acdcb", "a*c?b"))
 
-print(uniquePathsWithObstacles([
-  [0,0,0],
-  [0,1,0],
-  [0,0,0]
-]))
+//print(uniquePathsWithObstacles([
+//  [0,0,0],
+//  [0,1,0],
+//  [0,0,0]
+//]))
+
+
+print(climbStairs(3))
