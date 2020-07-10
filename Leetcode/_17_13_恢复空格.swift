@@ -75,13 +75,18 @@ func respace(_ dictionary: [String], _ sentence: String) -> Int {
     if length == 0 {
         return 0
     }
+    // 所有字段组成的树
     let root = Trie()
     for word in dictionary {
         root.insert(word)
     }
+    
+    // 定义 dp[i] 表示考虑前 i 个字符最少的未识别的字符数量，从前往后计算 dp 值
     var dp = Array<Int>(repeating: Int.max, count: length + 1)
     dp[0] = 0
     let chars = Array(sentence)
+    
+    
     for i in 1...length {
         dp[i] = dp[i-1] + 1
         var curPos = root
