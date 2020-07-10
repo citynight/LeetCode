@@ -16,6 +16,7 @@
 		0239C5B024B3ED7E00E65046 /* _112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */; };
 		02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */; };
 		024C170324B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024C170224B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift */; };
+		024C170524B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024C170424B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift */; };
 		024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */; };
 		025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */; };
 		025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */; };
@@ -52,6 +53,7 @@
 		0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_112_路径总和.swift"; sourceTree = "<group>"; };
 		02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
 		024C170224B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_309_最佳买卖股票时机含冷冻期.swift"; sourceTree = "<group>"; };
+		024C170424B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_121_买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_108_将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
 		025DC0A32484C13C0094AE2E /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_20_有效的括号.swift"; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				02CDE8A524B567840062B92E /* _面试题16_11_跳水板.swift */,
 				02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */,
 				024C170224B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift */,
+				024C170424B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 			);
 			path = Leetcode;
@@ -201,6 +204,7 @@
 				024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */,
 				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
 				025DC0B02484CA020094AE2E /* main.swift in Sources */,
+				024C170524B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

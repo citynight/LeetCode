@@ -67,4 +67,5 @@ import Foundation
 */
 //print(respace(["looked","just","like","her","brother"], "jesslookedjustliketimherbrother"))
 
-print(maxProfit([1,2,3,0,2]))
+//print(maxProfit([1,2,3,0,2]))
+print(maxProfit([7,1,5,3,6,4]))

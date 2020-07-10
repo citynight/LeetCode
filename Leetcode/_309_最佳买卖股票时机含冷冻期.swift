@@ -11,7 +11,7 @@ import Cocoa
 class _309_____________: NSObject {
 
 }
-func maxProfit(_ prices: [Int]) -> Int {
+func maxProfit1(_ prices: [Int]) -> Int {
     if prices.isEmpty {
         return 0
     }
