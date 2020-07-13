@@ -20,8 +20,11 @@
 		024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024F921924AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift */; };
 		025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0A62484C13C0094AE2E /* _20_有效的括号.swift */; };
 		025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */; };
-		025DC0B02484CA020094AE2E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AF2484CA020094AE2E /* main.swift */; };
 		028B927624B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028B927524B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift */; };
+		028B927824B9ACD400803CE5 /* 归并排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028B927724B9ACD400803CE5 /* 归并排序.swift */; };
+		028B927A24BAFF2000803CE5 /* _174_地下城游戏.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028B927924BAFF2000803CE5 /* _174_地下城游戏.swift */; };
+		028B927C24BC02C700803CE5 /* _350_两个数组的交集II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028B927B24BC02C700803CE5 /* _350_两个数组的交集II.swift */; };
+		028B927D24BC046F00803CE5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DC0AF2484CA020094AE2E /* main.swift */; };
 		028EE6F4249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift in Sources */ = {isa = PBXBuildFile; fileRef = 028EE6F3249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift */; };
 		028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028EE6F5249E3DE200EBF479 /* _9_回文数.swift */; };
 		0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0297C55B24AC317400DAB478 /* _718_最长重复子数组.swift */; };
@@ -61,6 +64,9 @@
 		025DC0AD2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_3_无重复字符的最长子串.swift"; sourceTree = "<group>"; };
 		025DC0AF2484CA020094AE2E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		028B927524B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_315_计算右侧小于当前元素的个数.swift"; sourceTree = "<group>"; };
+		028B927724B9ACD400803CE5 /* 归并排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "归并排序.swift"; sourceTree = "<group>"; };
+		028B927924BAFF2000803CE5 /* _174_地下城游戏.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_174_地下城游戏.swift"; sourceTree = "<group>"; };
+		028B927B24BC02C700803CE5 /* _350_两个数组的交集II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_350_两个数组的交集II.swift"; sourceTree = "<group>"; };
 		028EE6F3249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_8_字符串转换整数(atoi).swift"; sourceTree = "<group>"; };
 		028EE6F5249E3DE200EBF479 /* _9_回文数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_9_回文数.swift"; sourceTree = "<group>"; };
 		0297C55B24AC317400DAB478 /* _718_最长重复子数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_718_最长重复子数组.swift"; sourceTree = "<group>"; };
@@ -124,6 +130,9 @@
 				028B927524B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift */,
 				024C170424B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
+				028B927724B9ACD400803CE5 /* 归并排序.swift */,
+				028B927924BAFF2000803CE5 /* _174_地下城游戏.swift */,
+				028B927B24BC02C700803CE5 /* _350_两个数组的交集II.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -192,6 +201,7 @@
 				025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */,
 				028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */,
 				02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */,
+				028B927824B9ACD400803CE5 /* 归并排序.swift in Sources */,
 				021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */,
 				02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */,
 				029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */,
@@ -199,15 +209,17 @@
 				024C170324B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift in Sources */,
 				028B927624B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift in Sources */,
 				02D293CD24B6B9D90045B396 /* _17_13_恢复空格.swift in Sources */,
+				028B927D24BC046F00803CE5 /* main.swift in Sources */,
 				0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */,
+				028B927C24BC02C700803CE5 /* _350_两个数组的交集II.swift in Sources */,
 				0215052224B340B7007B6E62 /* _213_打家劫舍II.swift in Sources */,
 				0215051E24B31C33007B6E62 /* _70_爬楼梯.swift in Sources */,
 				0239C5B024B3ED7E00E65046 /* _112_路径总和.swift in Sources */,
 				0215052024B334A7007B6E62 /* _198_打家劫舍.swift in Sources */,
 				0215051C24B2F569007B6E62 /* _63_不同路径II.swift in Sources */,
 				024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */,
+				028B927A24BAFF2000803CE5 /* _174_地下城游戏.swift in Sources */,
 				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
-				025DC0B02484CA020094AE2E /* main.swift in Sources */,
 				024C170524B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
