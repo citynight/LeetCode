@@ -75,6 +75,7 @@ import Foundation
 
 
 
-print(intersect([4,9,5], [9,4,9,8,4]))
+//print(intersect([4,9,5], [9,4,9,8,4]))
+print(minimumTotal([[-1],[2,3],[1,-1,-3]]))
 
 
