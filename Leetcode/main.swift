@@ -78,29 +78,4 @@ import Foundation
 //print(intersect([4,9,5], [9,4,9,8,4]))
 //print(minimumTotal([[-1],[2,3],[1,-1,-3]]))
 //print(numTrees(3))
-let str = """
-2592X1944,160X120,320X240,1920X1080,640X480,800X600,1024X768,1280X720,1280X960,2048X1536,2592X1944
-"""
-func strSort2Arry(_ str:String) -> [String]{
-    if str.isEmpty {
-        return []
-    }
-    let temp = str.split(separator: ",")
-    if temp.count == 1 {
-        return [String(temp[0])]
-    }
-    
-    let arr =  temp.sorted { (left, right) -> Bool in
-        return Int(left.replacingOccurrences(of: "X", with: ""))! < Int(right.replacingOccurrences(of: "X", with: ""))!
-    }.map({String($0)})
-    return arr
-}
 
-print( strSort2Arry(str))
-
-
-func allIn(total:Int,arg1:Int,arg2:Int,arg3:Int,arg4:Int) -> Int{
-    let other = total - arg1 + total - arg2 + total - arg3 + total - arg4
-    return total - other
-}
-print(allIn(total: 60, arg1: 42, arg2: 46, arg3: 50, arg4: 55))
