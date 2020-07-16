@@ -79,3 +79,4 @@ import Foundation
 //print(minimumTotal([[-1],[2,3],[1,-1,-3]]))
 //print(numTrees(3))
 
+print(maxArea([1,8,6,2,5,4,8,3,7]))
