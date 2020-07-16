@@ -14,6 +14,7 @@
 		021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749B24B017D6003A5526 /* _32_最长有效括号.swift */; };
 		021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749D24B161E3003A5526 /* _44_通配符匹配.swift */; };
 		0236CC9E24C035E8009540E3 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9D24C035E8009540E3 /* Test.swift */; };
+		0236CCA024C06FF2009540E3 /* 283.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9F24C06FF2009540E3 /* 283.swift */; };
 		0239C5B024B3ED7E00E65046 /* _112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */; };
 		02406CBC24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02406CBB24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift */; };
 		02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */; };
@@ -58,6 +59,7 @@
 		021A749B24B017D6003A5526 /* _32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_32_最长有效括号.swift"; sourceTree = "<group>"; };
 		021A749D24B161E3003A5526 /* _44_通配符匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_44_通配符匹配.swift"; sourceTree = "<group>"; };
 		0236CC9D24C035E8009540E3 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		0236CC9F24C06FF2009540E3 /* 283.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 283.swift; sourceTree = "<group>"; };
 		0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_112_路径总和.swift"; sourceTree = "<group>"; };
 		02406CBB24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_96_不同的二叉搜索树.swift"; sourceTree = "<group>"; };
 		02444CA32485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				0299DC3324BD44C50063DB72 /* _120_三角形最小路径和.swift */,
 				02406CBB24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift */,
 				0236CC9D24C035E8009540E3 /* Test.swift */,
+				0236CC9F24C06FF2009540E3 /* 283.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */,
 				02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */,
 				028B927824B9ACD400803CE5 /* 归并排序.swift in Sources */,
+				0236CCA024C06FF2009540E3 /* 283.swift in Sources */,
 				021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */,
 				0236CC9E24C035E8009540E3 /* Test.swift in Sources */,
 				02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */,
