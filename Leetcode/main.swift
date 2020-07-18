@@ -80,4 +80,9 @@ import Foundation
 //print(numTrees(3))
 
 //print(maxArea([1,8,6,2,5,4,8,3,7]))
-print(searchInsert([1,3,5,6], 0))
+//print(searchInsert([1,3,5,6], 0))
+
+
+
+print(isInterleave("aabcc", "dbbca", "aadbbcbcac"))
+//print(isInterleave("aa", "bb", "abab"))
