@@ -84,5 +84,10 @@ import Foundation
 
 
 
-print(isInterleave("aabcc", "dbbca", "aadbbcbcac"))
+//print(isInterleave("aabcc", "dbbca", "aadbbcbcac"))
+
+
 //print(isInterleave("aa", "bb", "abab"))
+
+
+print(maxCoins([3,1,5,8]))
