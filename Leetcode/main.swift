@@ -90,4 +90,5 @@ import Foundation
 //print(isInterleave("aa", "bb", "abab"))
 
 
-print(maxCoins([3,1,5,8]))
+//print(maxCoins([3,1,5,8]))
+print(threeSum([-1, 0, 1, 2, -1, -4]))
