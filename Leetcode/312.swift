@@ -36,29 +36,52 @@ private func helper1(_ nums:inout Array<Int>, coins:Int, ans:inout Int) {
     }
 }
 
-private var dp:[[Int]]!
+//private var dp:[[Int]]!
+//func maxCoins(_ nums: [Int]) -> Int {
+//    let len = nums.count
+//    var origan = nums
+//    // 前面添加1后面添加1
+//    origan.insert(1, at: 0)
+//    origan.append(1)
+//
+//    dp = Array<[Int]>(repeating: Array<Int>(repeating: 0, count: len + 2), count: len + 2)
+//    return helper(origan, i: 1, j: len)
+//}
+//
+//func helper(_ nums: [Int], i: Int,j: Int) -> Int {
+//    if i > j { return 0 }
+//    if dp[i][j] > 0 {
+//        return dp[i][j]
+//    }
+//    // search
+//    for k in i...j {
+//        let left = helper(nums, i: i, j: k - 1)
+//        let right = helper(nums, i: k + 1, j: j)
+//        let delta = nums[k] * nums[i - 1] * nums[j + 1]
+//        dp[i][j] = max(dp[i][j], left + right + delta)
+//    }
+//    return dp[i][j]
+//}
 func maxCoins(_ nums: [Int]) -> Int {
-    let len = nums.count
+    if nums.isEmpty {
+        return 0
+    }
+    let n = nums.count
     var origan = nums
-    // 前面添加1后面添加1
     origan.insert(1, at: 0)
     origan.append(1)
     
-    dp = Array<[Int]>(repeating: Array<Int>(repeating: 0, count: len + 2), count: len + 2)
-    return helper(origan, i: 1, j: len)
-}
-
-func helper(_ nums: [Int], i: Int,j: Int) -> Int {
-    if i > j { return 0 }
-    if dp[i][j] > 0 {
-        return dp[i][j]
+    var dp:[[Int]] = Array<[Int]>(repeating: Array<Int>(repeating: 0, count: n + 2), count: n + 2)
+    // 搜索粒度
+    for len in 1...n {
+        // 搜索上线
+        for i in 1...(n - len + 1) {
+            let j = i + len - 1
+            for k in i...j {
+                let delta = origan[k] * origan[i - 1] * origan[j + 1]
+                dp[i][j] = max(dp[i][j], dp[i][k-1] + dp[k + 1][j] + delta)
+            }
+        }
     }
-    // search
-    for k in i...j {
-        let left = helper(nums, i: i, j: k - 1)
-        let right = helper(nums, i: k + 1, j: j)
-        let delta = nums[k] * nums[i - 1] * nums[j + 1]
-        dp[i][j] = max(dp[i][j], left + right + delta)
-    }
-    return dp[i][j]
+    return dp[1][n]
 }
