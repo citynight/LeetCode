@@ -91,4 +91,5 @@ import Foundation
 
 
 //print(maxCoins([3,1,5,8]))
-print(threeSum([-1, 0, 1, 2, -1, -4]))
+//print(threeSum([-1, 0, 1, 2, -1, -4]))
+print(twoSum([2, 7, 11, 15], 9))
