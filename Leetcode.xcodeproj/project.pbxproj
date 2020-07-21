@@ -15,6 +15,7 @@
 		0215052224B340B7007B6E62 /* _213_打家劫舍II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0215052124B340B7007B6E62 /* _213_打家劫舍II.swift */; };
 		021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749B24B017D6003A5526 /* _32_最长有效括号.swift */; };
 		021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749D24B161E3003A5526 /* _44_通配符匹配.swift */; };
+		0235039D24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */; };
 		0236CC9E24C035E8009540E3 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9D24C035E8009540E3 /* Test.swift */; };
 		0236CCA024C06FF2009540E3 /* 283.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9F24C06FF2009540E3 /* 283.swift */; };
 		0239C5B024B3ED7E00E65046 /* _112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */; };
@@ -36,6 +37,7 @@
 		0299DC3424BD44C50063DB72 /* _120_三角形最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0299DC3324BD44C50063DB72 /* _120_三角形最小路径和.swift */; };
 		029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029B329D248B2D15008D33E7 /* _5_最长回文子串.swift */; };
 		02B454CB24927A0D0054002C /* _7_整数反转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B454CA24927A0D0054002C /* _7_整数反转.swift */; };
+		02BC55ED24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC55EC24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift */; };
 		02C350DF24C3CDCD008DC01D /* 312.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350DE24C3CDCD008DC01D /* 312.swift */; };
 		02C350E124C43209008DC01D /* _15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350E024C43209008DC01D /* _15.swift */; };
 		02C350E324C52DF6008DC01D /* 167. 两数之和 II - 输入有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */; };
@@ -66,6 +68,7 @@
 		0215052124B340B7007B6E62 /* _213_打家劫舍II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_213_打家劫舍II.swift"; sourceTree = "<group>"; };
 		021A749B24B017D6003A5526 /* _32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_32_最长有效括号.swift"; sourceTree = "<group>"; };
 		021A749D24B161E3003A5526 /* _44_通配符匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_44_通配符匹配.swift"; sourceTree = "<group>"; };
+		0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. 不同的二叉搜索树 II.swift"; sourceTree = "<group>"; };
 		0236CC9D24C035E8009540E3 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		0236CC9F24C06FF2009540E3 /* 283.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 283.swift; sourceTree = "<group>"; };
 		0239C5AF24B3ED7E00E65046 /* _112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_112_路径总和.swift"; sourceTree = "<group>"; };
@@ -88,6 +91,7 @@
 		0299DC3324BD44C50063DB72 /* _120_三角形最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_120_三角形最小路径和.swift"; sourceTree = "<group>"; };
 		029B329D248B2D15008D33E7 /* _5_最长回文子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_5_最长回文子串.swift"; sourceTree = "<group>"; };
 		02B454CA24927A0D0054002C /* _7_整数反转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_7_整数反转.swift"; sourceTree = "<group>"; };
+		02BC55EC24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Offer 11. 旋转数组的最小数字.swift"; sourceTree = "<group>"; };
 		02C350DE24C3CDCD008DC01D /* 312.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 312.swift; sourceTree = "<group>"; };
 		02C350E024C43209008DC01D /* _15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _15.swift; sourceTree = "<group>"; };
 		02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. 两数之和 II - 输入有序数组.swift"; sourceTree = "<group>"; };
@@ -156,11 +160,13 @@
 				028B927B24BC02C700803CE5 /* _350_两个数组的交集II.swift */,
 				0299DC3324BD44C50063DB72 /* _120_三角形最小路径和.swift */,
 				02406CBB24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift */,
+				02BC55EC24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift */,
 				0236CC9D24C035E8009540E3 /* Test.swift */,
 				0236CC9F24C06FF2009540E3 /* 283.swift */,
 				02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */,
 				02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
+				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
 				02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */,
 			);
@@ -243,8 +249,10 @@
 				029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */,
 				025DC0AE2484C9BD0094AE2E /* _3_无重复字符的最长子串.swift in Sources */,
 				024C170324B80C6900EFFDC4 /* _309_最佳买卖股票时机含冷冻期.swift in Sources */,
+				0235039D24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift in Sources */,
 				028B927624B99E1A00803CE5 /* _315_计算右侧小于当前元素的个数.swift in Sources */,
 				0299DC3424BD44C50063DB72 /* _120_三角形最小路径和.swift in Sources */,
+				02BC55ED24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift in Sources */,
 				02D293CD24B6B9D90045B396 /* _17_13_恢复空格.swift in Sources */,
 				028B927D24BC046F00803CE5 /* main.swift in Sources */,
 				0297C55C24AC317400DAB478 /* _718_最长重复子数组.swift in Sources */,
