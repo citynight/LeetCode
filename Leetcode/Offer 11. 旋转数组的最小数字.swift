@@ -22,5 +22,6 @@ func minArray(_ numbers: [Int]) -> Int {
             min = num
         }
     }
+//    numbers.min()
     return min
 }

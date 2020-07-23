@@ -93,5 +93,7 @@ import Foundation
 //print(maxCoins([3,1,5,8]))
 //print(threeSum([-1, 0, 1, 2, -1, -4]))
 //print(twoSum([2, 7, 11, 15], 9))
-let v95 = _95()
-print(v95.generateTrees(3))
+//let v95 = _95()
+//print(v95.generateTrees(3))
+
+print(minPathSum([[1,2,5],[3,2,1]]))

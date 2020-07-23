@@ -15,6 +15,7 @@
 		0215052224B340B7007B6E62 /* _213_打家劫舍II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0215052124B340B7007B6E62 /* _213_打家劫舍II.swift */; };
 		021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749B24B017D6003A5526 /* _32_最长有效括号.swift */; };
 		021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A749D24B161E3003A5526 /* _44_通配符匹配.swift */; };
+		021E9D0824C8F9BB004C67C2 /* _64_最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021E9D0724C8F9BB004C67C2 /* _64_最小路径和.swift */; };
 		0235039D24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */; };
 		0236CC9E24C035E8009540E3 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9D24C035E8009540E3 /* Test.swift */; };
 		0236CCA024C06FF2009540E3 /* 283.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236CC9F24C06FF2009540E3 /* 283.swift */; };
@@ -68,6 +69,7 @@
 		0215052124B340B7007B6E62 /* _213_打家劫舍II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_213_打家劫舍II.swift"; sourceTree = "<group>"; };
 		021A749B24B017D6003A5526 /* _32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_32_最长有效括号.swift"; sourceTree = "<group>"; };
 		021A749D24B161E3003A5526 /* _44_通配符匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_44_通配符匹配.swift"; sourceTree = "<group>"; };
+		021E9D0724C8F9BB004C67C2 /* _64_最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_64_最小路径和.swift"; sourceTree = "<group>"; };
 		0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. 不同的二叉搜索树 II.swift"; sourceTree = "<group>"; };
 		0236CC9D24C035E8009540E3 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		0236CC9F24C06FF2009540E3 /* 283.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 283.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				0299DC3324BD44C50063DB72 /* _120_三角形最小路径和.swift */,
 				02406CBB24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift */,
 				02BC55EC24C7B2A0001E86BF /* Offer 11. 旋转数组的最小数字.swift */,
+				021E9D0724C8F9BB004C67C2 /* _64_最小路径和.swift */,
 				0236CC9D24C035E8009540E3 /* Test.swift */,
 				0236CC9F24C06FF2009540E3 /* 283.swift */,
 				02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */,
@@ -263,6 +266,7 @@
 				0239C5B024B3ED7E00E65046 /* _112_路径总和.swift in Sources */,
 				0215052024B334A7007B6E62 /* _198_打家劫舍.swift in Sources */,
 				0215051C24B2F569007B6E62 /* _63_不同路径II.swift in Sources */,
+				021E9D0824C8F9BB004C67C2 /* _64_最小路径和.swift in Sources */,
 				02406CBC24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift in Sources */,
 				024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */,
 				028B927A24BAFF2000803CE5 /* _174_地下城游戏.swift in Sources */,
