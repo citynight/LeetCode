@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0208504D24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */; };
 		02115EE224C0A03900110479 /* 11. 盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */; };
 		02115EE424C139FC00110479 /* 35. 搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02115EE324C139FC00110479 /* 35. 搜索插入位置.swift */; };
 		0215051C24B2F569007B6E62 /* _63_不同路径II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0215051B24B2F569007B6E62 /* _63_不同路径II.swift */; };
@@ -61,6 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_329_ 矩阵中的最长递增路径.swift"; sourceTree = "<group>"; };
 		02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. 盛最多水的容器.swift"; sourceTree = "<group>"; };
 		02115EE324C139FC00110479 /* 35. 搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. 搜索插入位置.swift"; sourceTree = "<group>"; };
 		0215051B24B2F569007B6E62 /* _63_不同路径II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_63_不同路径II.swift"; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				0236CC9F24C06FF2009540E3 /* 283.swift */,
 				02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */,
 				02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */,
+				0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -268,6 +271,7 @@
 				0215051C24B2F569007B6E62 /* _63_不同路径II.swift in Sources */,
 				021E9D0824C8F9BB004C67C2 /* _64_最小路径和.swift in Sources */,
 				02406CBC24BEA73C00E28FB7 /* _96_不同的二叉搜索树.swift in Sources */,
+				0208504D24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift in Sources */,
 				024F921A24AEC89400CE7797 /* _108_将有序数组转换为二叉搜索树.swift in Sources */,
 				028B927A24BAFF2000803CE5 /* _174_地下城游戏.swift in Sources */,
 				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
