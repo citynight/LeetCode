@@ -97,4 +97,6 @@ import Foundation
 //print(v95.generateTrees(3))
 
 //print(minPathSum([[1,2,5],[3,2,1]]))
-print(longestIncreasingPath([[9,9,4],[6,6,8],[2,1,1]]))
+//print(longestIncreasingPath([[9,9,4],[6,6,8],[2,1,1]]))
+print(isSubsequence("axc"
+,"ahbgdc"))
