@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0208504D24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */; };
 		0208504F24CE6BA4007977CB /* _392_判断子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208504E24CE6BA4007977CB /* _392_判断子序列.swift */; };
+		0208505124CE7544007977CB /* _242_有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208505024CE7544007977CB /* _242_有效的字母异位词.swift */; };
 		02115EE224C0A03900110479 /* 11. 盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */; };
 		02115EE424C139FC00110479 /* 35. 搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02115EE324C139FC00110479 /* 35. 搜索插入位置.swift */; };
 		0215051C24B2F569007B6E62 /* _63_不同路径II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0215051B24B2F569007B6E62 /* _63_不同路径II.swift */; };
@@ -65,6 +66,7 @@
 /* Begin PBXFileReference section */
 		0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_329_ 矩阵中的最长递增路径.swift"; sourceTree = "<group>"; };
 		0208504E24CE6BA4007977CB /* _392_判断子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_392_判断子序列.swift"; sourceTree = "<group>"; };
+		0208505024CE7544007977CB /* _242_有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_242_有效的字母异位词.swift"; sourceTree = "<group>"; };
 		02115EE124C0A03900110479 /* 11. 盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. 盛最多水的容器.swift"; sourceTree = "<group>"; };
 		02115EE324C139FC00110479 /* 35. 搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. 搜索插入位置.swift"; sourceTree = "<group>"; };
 		0215051B24B2F569007B6E62 /* _63_不同路径II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_63_不同路径II.swift"; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */,
 				0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */,
 				0208504E24CE6BA4007977CB /* _392_判断子序列.swift */,
+				0208505024CE7544007977CB /* _242_有效的字母异位词.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -245,6 +248,7 @@
 				028EE6F4249DAE8000EBF479 /* _8_字符串转换整数(atoi).swift in Sources */,
 				025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */,
 				02C350E124C43209008DC01D /* _15.swift in Sources */,
+				0208505124CE7544007977CB /* _242_有效的字母异位词.swift in Sources */,
 				028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */,
 				02C350E324C52DF6008DC01D /* 167. 两数之和 II - 输入有序数组.swift in Sources */,
 				02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */,
