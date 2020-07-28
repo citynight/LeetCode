@@ -45,6 +45,7 @@
 		02C350DF24C3CDCD008DC01D /* 312.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350DE24C3CDCD008DC01D /* 312.swift */; };
 		02C350E124C43209008DC01D /* _15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350E024C43209008DC01D /* _15.swift */; };
 		02C350E324C52DF6008DC01D /* 167. 两数之和 II - 输入有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */; };
+		02C86E7F24CFBADC0040929E /* _104_二叉树的最大深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */; };
 		02CDE8A624B567840062B92E /* _面试题16_11_跳水板.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CDE8A524B567840062B92E /* _面试题16_11_跳水板.swift */; };
 		02D293CD24B6B9D90045B396 /* _17_13_恢复空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */; };
 		02D59E1324C28C8400DEAEF4 /* 97. 交错字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */; };
@@ -103,6 +104,7 @@
 		02C350DE24C3CDCD008DC01D /* 312.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 312.swift; sourceTree = "<group>"; };
 		02C350E024C43209008DC01D /* _15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _15.swift; sourceTree = "<group>"; };
 		02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. 两数之和 II - 输入有序数组.swift"; sourceTree = "<group>"; };
+		02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_104_二叉树的最大深度.swift"; sourceTree = "<group>"; };
 		02CDE8A524B567840062B92E /* _面试题16_11_跳水板.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_面试题16_11_跳水板.swift"; sourceTree = "<group>"; };
 		02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_17_13_恢复空格.swift"; sourceTree = "<group>"; };
 		02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. 交错字符串.swift"; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				0208504C24CD1176007977CB /* _329_ 矩阵中的最长递增路径.swift */,
 				0208504E24CE6BA4007977CB /* _392_判断子序列.swift */,
 				0208505024CE7544007977CB /* _242_有效的字母异位词.swift */,
+				02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -285,6 +288,7 @@
 				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
 				024C170524B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift in Sources */,
 				02115EE224C0A03900110479 /* 11. 盛最多水的容器.swift in Sources */,
+				02C86E7F24CFBADC0040929E /* _104_二叉树的最大深度.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
