@@ -50,6 +50,7 @@
 		02D293CD24B6B9D90045B396 /* _17_13_恢复空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */; };
 		02D59E1324C28C8400DEAEF4 /* 97. 交错字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */; };
 		02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DDD43424AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift */; };
+		02ECDE9B24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -109,6 +110,7 @@
 		02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_17_13_恢复空格.swift"; sourceTree = "<group>"; };
 		02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. 交错字符串.swift"; sourceTree = "<group>"; };
 		02DDD43424AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_378_有序矩阵中第K小的元素.swift"; sourceTree = "<group>"; };
+		02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "面试题 08.03. 魔术索引.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 				0208504E24CE6BA4007977CB /* _392_判断子序列.swift */,
 				0208505024CE7544007977CB /* _242_有效的字母异位词.swift */,
 				02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */,
+				02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -260,6 +263,7 @@
 				021A749C24B017D6003A5526 /* _32_最长有效括号.swift in Sources */,
 				0236CC9E24C035E8009540E3 /* Test.swift in Sources */,
 				02444CA42485E50300E4A645 /* _4_寻找两个正序数组的中位数.swift in Sources */,
+				02ECDE9B24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift in Sources */,
 				02115EE424C139FC00110479 /* 35. 搜索插入位置.swift in Sources */,
 				02C350DF24C3CDCD008DC01D /* 312.swift in Sources */,
 				029B329E248B2D15008D33E7 /* _5_最长回文子串.swift in Sources */,
