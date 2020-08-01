@@ -51,6 +51,7 @@
 		02D59E1324C28C8400DEAEF4 /* 97. 交错字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */; };
 		02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DDD43424AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift */; };
 		02ECDE9B24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */; };
+		02EFBAA124D518C0002E7774 /* _632_最小区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EFBAA024D518C0002E7774 /* _632_最小区间.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -111,6 +112,7 @@
 		02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. 交错字符串.swift"; sourceTree = "<group>"; };
 		02DDD43424AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_378_有序矩阵中第K小的元素.swift"; sourceTree = "<group>"; };
 		02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "面试题 08.03. 魔术索引.swift"; sourceTree = "<group>"; };
+		02EFBAA024D518C0002E7774 /* _632_最小区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_632_最小区间.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +185,7 @@
 				0208505024CE7544007977CB /* _242_有效的字母异位词.swift */,
 				02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */,
 				02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */,
+				02EFBAA024D518C0002E7774 /* _632_最小区间.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -255,6 +258,7 @@
 				025DC0A72484C13C0094AE2E /* _20_有效的括号.swift in Sources */,
 				02C350E124C43209008DC01D /* _15.swift in Sources */,
 				0208505124CE7544007977CB /* _242_有效的字母异位词.swift in Sources */,
+				02EFBAA124D518C0002E7774 /* _632_最小区间.swift in Sources */,
 				028EE6F6249E3DE200EBF479 /* _9_回文数.swift in Sources */,
 				02C350E324C52DF6008DC01D /* 167. 两数之和 II - 输入有序数组.swift in Sources */,
 				02DDD43524AD8503009878F9 /* _378_有序矩阵中第K小的元素.swift in Sources */,

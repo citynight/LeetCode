@@ -100,4 +100,6 @@ import Foundation
 //print(longestIncreasingPath([[9,9,4],[6,6,8],[2,1,1]]))
 //print(isSubsequence("axc"
 //,"ahbgdc"))
-print(isAnagram("rat", "car"))
+//print(isAnagram("rat", "car"))
+
+print(smallestRange([[4,10,15,24,26], [0,9,12,20], [5,18,22,30]]))
