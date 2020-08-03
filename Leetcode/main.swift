@@ -102,4 +102,5 @@ import Foundation
 //,"ahbgdc"))
 //print(isAnagram("rat", "car"))
 
-print(smallestRange([[4,10,15,24,26], [0,9,12,20], [5,18,22,30]]))
+//print(smallestRange([[4,10,15,24,26], [0,9,12,20], [5,18,22,30]]))
+print(addStrings("0", "0"))
