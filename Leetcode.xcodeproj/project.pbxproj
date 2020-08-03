@@ -47,6 +47,7 @@
 		02C350E324C52DF6008DC01D /* 167. 两数之和 II - 输入有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */; };
 		02C86E7F24CFBADC0040929E /* _104_二叉树的最大深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */; };
 		02CB741224D7E16600570B18 /* _415_字符串相加.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CB741124D7E16600570B18 /* _415_字符串相加.swift */; };
+		02CB741424D80A9100570B18 /* _1343_大小为 K 且平均值大于等于阈值的子数组数目.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CB741324D80A9100570B18 /* _1343_大小为 K 且平均值大于等于阈值的子数组数目.swift */; };
 		02CDE8A624B567840062B92E /* _面试题16_11_跳水板.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CDE8A524B567840062B92E /* _面试题16_11_跳水板.swift */; };
 		02D293CD24B6B9D90045B396 /* _17_13_恢复空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */; };
 		02D59E1324C28C8400DEAEF4 /* 97. 交错字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */; };
@@ -109,6 +110,7 @@
 		02C350E224C52DF5008DC01D /* 167. 两数之和 II - 输入有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. 两数之和 II - 输入有序数组.swift"; sourceTree = "<group>"; };
 		02C86E7E24CFBADC0040929E /* _104_二叉树的最大深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_104_二叉树的最大深度.swift"; sourceTree = "<group>"; };
 		02CB741124D7E16600570B18 /* _415_字符串相加.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_415_字符串相加.swift"; sourceTree = "<group>"; };
+		02CB741324D80A9100570B18 /* _1343_大小为 K 且平均值大于等于阈值的子数组数目.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_1343_大小为 K 且平均值大于等于阈值的子数组数目.swift"; sourceTree = "<group>"; };
 		02CDE8A524B567840062B92E /* _面试题16_11_跳水板.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_面试题16_11_跳水板.swift"; sourceTree = "<group>"; };
 		02D293CC24B6B9D90045B396 /* _17_13_恢复空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_17_13_恢复空格.swift"; sourceTree = "<group>"; };
 		02D59E1224C28C8400DEAEF4 /* 97. 交错字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. 交错字符串.swift"; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 				02ECDE9A24D3ACC7008CCD67 /* 面试题 08.03. 魔术索引.swift */,
 				02EFBAA024D518C0002E7774 /* _632_最小区间.swift */,
 				02CB741124D7E16600570B18 /* _415_字符串相加.swift */,
+				02CB741324D80A9100570B18 /* _1343_大小为 K 且平均值大于等于阈值的子数组数目.swift */,
 				025DC0AF2484CA020094AE2E /* main.swift */,
 				0235039C24C6612600A1B169 /* 95. 不同的二叉搜索树 II.swift */,
 				02C350DE24C3CDCD008DC01D /* 312.swift */,
@@ -299,6 +302,7 @@
 				028B927A24BAFF2000803CE5 /* _174_地下城游戏.swift in Sources */,
 				021A749E24B161E3003A5526 /* _44_通配符匹配.swift in Sources */,
 				024C170524B8519100EFFDC4 /* _121_买卖股票的最佳时机.swift in Sources */,
+				02CB741424D80A9100570B18 /* _1343_大小为 K 且平均值大于等于阈值的子数组数目.swift in Sources */,
 				02115EE224C0A03900110479 /* 11. 盛最多水的容器.swift in Sources */,
 				02C86E7F24CFBADC0040929E /* _104_二叉树的最大深度.swift in Sources */,
 			);

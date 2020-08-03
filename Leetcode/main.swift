@@ -103,4 +103,5 @@ import Foundation
 //print(isAnagram("rat", "car"))
 
 //print(smallestRange([[4,10,15,24,26], [0,9,12,20], [5,18,22,30]]))
-print(addStrings("0", "0"))
+//print(addStrings("0", "0"))
+print(numOfSubarrays([11,13,17,23,29,31,7,5,2,3], 3, 5))
