@@ -106,11 +106,12 @@ import Foundation
 //print(addStrings("0", "0"))
 //print(numOfSubarrays([11,13,17,23,29,31,7,5,2,3], 3, 5))
 
-
-let node1 = TreeNode(1)
-node1.left = TreeNode(2)
-
-let node2 = TreeNode(1)
-node2.right = TreeNode(2)
-
-print(isSameTree(node1, node2))
+//
+//let node1 = TreeNode(1)
+//node1.left = TreeNode(2)
+//
+//let node2 = TreeNode(1)
+//node2.right = TreeNode(2)
+//
+//print(isSameTree(node1, node2))
+print(isValid("(]"))

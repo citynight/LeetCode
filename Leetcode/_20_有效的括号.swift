@@ -33,7 +33,7 @@ func isValid1(_ s: String) -> Bool {
     }
     return stack.isEmpty
 }
-func isValid(_ s: String) -> Bool {
+func isValid2(_ s: String) -> Bool {
     if s.isEmpty {
         return true
     }
@@ -57,6 +57,26 @@ func isValid(_ s: String) -> Bool {
             _ = stack.popLast()
         }else {
             stack.append(c)
+        }
+    }
+    return stack.isEmpty
+}
+func isValid(_ s: String) -> Bool {
+    var stack = [Character]()
+    let chars = Array(s)
+    for char in chars {
+        if !stack.isEmpty && char == stack.last! {
+            _ = stack.popLast()
+        }else {
+            if char == "(" {
+                stack.append(")")
+            }else if char == "{" {
+                stack.append("}")
+            }else if char == "[" {
+                stack.append(contentsOf: "]")
+            }else {
+                return false
+            }
         }
     }
     return stack.isEmpty
